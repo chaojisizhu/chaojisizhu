@@ -1,26 +1,13 @@
-<h2 align="center">🛠️ Skills & Tech Stack</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,nodejs" alt="tech-stack" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaojisizhu&layout=compact&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&border_radius=10&border_color=ffffff" height="195px" alt="Most Used Languages" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=chaojisizhu&show_icons=true&theme=radical&border_radius=10&border_color=ffffff" height="195px" alt="GitHub Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaojisizhu&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaojisizhu&theme=tokyonight" width="49%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chaojisizhu&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chaojisizhu&theme=tokyonight" width="49%" />
-</div>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/chaojisizhu/chaojisizhu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
+</p>
